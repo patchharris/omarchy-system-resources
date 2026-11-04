@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"patchharris.resources","name":"System Resources","version":"1.0.0","author":"Patch Harris","description":"Live CPU, memory, disk usage and top memory processes","kinds":["bar-widget"],"entryPoints":{"barWidget":"Panel.qml"},"barWidget":{"displayName":"System Resources","category":"Info","allowMultiple":false}}
